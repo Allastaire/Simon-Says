@@ -1,0 +1,53 @@
+body{
+
+  background-color: #323232;
+  text-align: center;
+
+}
+
+.header{
+  color: #f1f3f4;
+  margin: 7% auto;
+}
+
+
+.button{display: inline-block;
+width: 200px;
+height:200px;
+  margin-bottom: 3%;
+  outline-color: #596157;
+border-color: #596157;
+border-width: 1rem;
+border-radius: 25%;
+opacity: 75%;
+}
+.right{
+  margin-left: 65%;
+
+}
+.left{
+margin-right: 65%
+}
+
+
+
+.on{
+  opacity: 1;
+  filter: brightness(500%);
+  border-width: 0;
+}
+
+/* colors */
+
+.red{
+  background-color: red;
+}
+.green{
+  background-color: green;
+}
+.yellow{
+  background-color: yellow;
+}
+.blue{
+  background-color: blue;
+}
